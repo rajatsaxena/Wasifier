@@ -1,6 +1,6 @@
 - `ACGbasedClassifier.ipynb`: deep linear neural network built using 3second 50bins dataset. Reaches testing accuracy ~80%
 
-- `WFbasedClassifier.ipynb`: convolutional neural network built using 32 channels selected from the probe. 82-length waveforms. Reaches testing accuracy ~89%
+- `WFbasedClassifier.ipynb`: convolutional neural network built using 32 channels selected from the probe. 82-length waveforms (with zero-padding). Reaches testing accuracy ~89%
 
 - `MergedClassifier.ipynb`: merging the above two models using three methods with their results described in the table below
 
